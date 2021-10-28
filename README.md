@@ -22,7 +22,7 @@ The aim of this project is to showcase my HTML and CSS skills
 
 
 ## Link to Deployed Project
-[Dasmoto Webpage](https://wemiibidun.github.io/pricing_widget_project/)
+[Dasmoto Webpage](https://wemiibidun.github.io/dasmoto_webpage/)
 
 
 ## Status
