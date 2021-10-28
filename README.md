@@ -18,7 +18,7 @@ This is a Single page webpage designed as part of the web developemnt course on 
 The aim of this project is to showcase my HTML and CSS skills
 
 ## Screenshot
-![Sample image](https://github.com/wemiibidun/dasmoto_webpage/blob/master/dasmoto_screenshot.png)
+![Sample image](https://github.com/wemiibidun/dasmoto_webpage/blob/main/dasmoto_screenshot.png)
 
 
 
