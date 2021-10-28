@@ -3,7 +3,7 @@
 
 
 ## Hi & Welcome! 👋
-This is a Single page webpage designed as part of the web developemnt course on Codeacademy
+This is a simple one page web page that was designed as part of the web developemnt course on Codeacademy
 
 ## Table of contents
 * [Project Aim](#project-aim)
