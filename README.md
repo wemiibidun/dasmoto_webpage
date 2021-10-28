@@ -1,5 +1,5 @@
-![GitLab Code Size](https://img.shields.io/github/languages/code-size/wemiibidun/pricing_widget_project)
-![GitLab Languages](https://img.shields.io/github/languages/count/wemiibidun/pricing_widget_project)
+![GitLab Code Size](https://img.shields.io/github/languages/code-size/wemiibidun/dasmoto_webpage)
+![GitLab Languages](https://img.shields.io/github/languages/count/wemiibidun/dasmoto_webpage)
 
 
 ## Hi & Welcome! 👋
@@ -19,7 +19,6 @@ The aim of this project is to showcase my HTML and CSS skills
 
 ## Screenshot
 ![Sample image](https://github.com/wemiibidun/dasmoto_webpage/blob/main/dasmoto_screenshot.png)
-
 
 
 ## Link to Deployed Project
